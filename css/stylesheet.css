@@ -1,0 +1,74 @@
+h1 {
+    font-family: Geneva, Verdana, Arial, Helvetica;
+    font-size: 27pt;
+    color: #000000;
+    text-align: center;
+}
+
+h2 {
+    font-family: Geneva, Verdana, Arial, Helvetica;
+    font-size: 20pt;
+    color: #000000;
+    text-align: center;
+}
+
+h3 {
+    font-family: Geneva, Verdana, Arial, Helvetica;
+    font-size: 15pt;
+    color: #000000;
+    text-align: left;
+}
+
+p {
+    font-family: Geneva, Helvetica;
+}
+
+.logos {
+    padding: 7px;
+    width: 5%;
+}
+
+.currLink {
+    color: #000080;
+}
+
+.wrap {
+    float: left;
+    position: relative;
+    left: 50%;
+    padding: 7px;
+    /*width: 80%;
+    text-align: center;*/
+}
+
+.content {
+    float: left;
+    position: relative;
+    left: -50%;
+    padding: 7px;
+    /*width: 80%;
+     text-align: center;*/
+}
+
+#header {
+    background-color: #e6f2ff;
+}
+
+#pageLinks {
+    font-size: 13pt;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover {
+    color: #000080;
+}
+
+hr {
+    width: 80%;
+}
+
+
