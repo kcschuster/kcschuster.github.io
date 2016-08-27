@@ -24,7 +24,7 @@ p {
 }
 
 .logos {
-    padding: 7px;
+    padding: 10px;
     width: 5%;
 }
 
@@ -58,6 +58,10 @@ p {
 
 #pageLinks {
     font-size: 13pt;
+}
+
+#KCS_pic {
+    padding: 12px;
 }
 
 a {
